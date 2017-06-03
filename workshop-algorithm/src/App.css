@@ -9,14 +9,23 @@
 
 .App-header {
   background-color: #222;
-  height: 150px;
+  height: 180px;
   padding: 20px;
   color: white;
 }
 
 .App-intro {
   font-size: large;
+  margin: 0;
+  padding: 40px 20px 20px;
 }
+
+.step-text {
+    padding: 20px;
+    background: cornsilk;
+    margin: 10px 20px 30px;
+    border-radius: 8px;
+  }
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
