@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Button } from 'react-bootstrap';
 
 
-class Step extends Component {
+class Steps extends Component {
   constructor(props) {
     super(props);
 
@@ -12,7 +12,7 @@ class Step extends Component {
         'step2',
         'step3',
         'step4',
-        'step5'
+        'step5',
       ],
       index: 0,
       button: 'next'
@@ -34,4 +34,4 @@ class Step extends Component {
   }
 }
 
-export default Step;
+export default Steps;

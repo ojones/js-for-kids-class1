@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import Step from './components/step.js';
+import Steps from './components/steps';
 
 class App extends Component {
   render() {
@@ -15,7 +15,7 @@ class App extends Component {
         <p className="App-intro">
           Follow the algorithm steps for a delicous Peanut Butter &amp; Jelly Sandwich.
         </p>
-        <Step />
+        <Steps />
       </div>
     );
   }
