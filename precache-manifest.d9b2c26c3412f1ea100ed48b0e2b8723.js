@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/js-for-kids-class1/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
-    "revision": "16795c6aad60717e524d",
-    "url": "/js-for-kids-class1/static/css/main.fc011f83.chunk.css"
+    "revision": "e9bee19873d9214336f3",
+    "url": "/js-for-kids-class1/static/css/main.cc370bdf.chunk.css"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
     "url": "/js-for-kids-class1/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "d80f3a55747a331bb707",
-    "url": "/js-for-kids-class1/static/js/1.d80f3a55.chunk.js"
+    "revision": "c86264f3fb8a0dfa9012",
+    "url": "/js-for-kids-class1/static/js/1.c86264f3.chunk.js"
   },
   {
     "revision": "c92cea087aea154ffc51",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/js-for-kids-class1/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "16795c6aad60717e524d",
-    "url": "/js-for-kids-class1/static/js/main.16795c6a.chunk.js"
+    "revision": "e9bee19873d9214336f3",
+    "url": "/js-for-kids-class1/static/js/main.e9bee198.chunk.js"
   },
   {
     "revision": "f4769f9bdb7466be65088239c12046d1",
@@ -40,11 +40,11 @@ self.__precacheManifest = [
     "url": "/js-for-kids-class1/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "d80f3a55747a331bb707",
-    "url": "/js-for-kids-class1/static/css/1.dabc98fc.chunk.css"
+    "revision": "c86264f3fb8a0dfa9012",
+    "url": "/js-for-kids-class1/static/css/1.74aecd07.chunk.css"
   },
   {
-    "revision": "daa77cc2617222873d83420f7f55d886",
+    "revision": "1c841f2e137484e53834d1cf409d0abd",
     "url": "/js-for-kids-class1/index.html"
   }
 ];
