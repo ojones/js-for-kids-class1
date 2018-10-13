@@ -1,5 +1,5 @@
 {
-  "name": "workshop-algorithm",
+  "name": "js-for-kids-class1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,7 @@
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "react-scripts": "^2.0.4"
   },
   "scripts": {
@@ -19,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://ojones.github.io/workshop-algorithm",
+  "homepage": "http://ojones.github.io/js-for-kids-class1",
   "browserslist": [
     ">0.2%",
     "not dead",

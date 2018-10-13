@@ -1,8 +1,12 @@
 >Web app to demonstrate what an algorithm is with pbj cracker sandwiches
 
 # Javascript for kids class 1
-
-This repo was made for classroom purposes. Because Github is amazing, kids were actually able to clone this and deploy their own algorithms. For testing, we made cracker sandwiches in real life by following the steps in our partners algorithm.
+   * [Install](#install)
+   * [Usage](#usage)
+   * [Deploy](#deploy)
+   * [Personal Note](#personal-note)
+  
+This repo was made for classroom purposes. Because Github is amazing, kids were actually able to clone this and edit their own algorithms. For testing, we made cracker sandwiches in real life by following the steps in our partners algorithm.
 
 # Install
 
@@ -30,7 +34,7 @@ Your apps link will display in green just below the "Github Pages" heading when 
 
 # Personal Note
 
-[This]() was the very first `create-react-app` I ever deployed. With a full time engineering job and an infant of my own, I didn't have much time to prepare for teaching a new class of kids.
+[This](https://ojones.github.io/js-for-kids-class1/) was the very first `create-react-app` I ever deployed. With a full time engineering job and an infant of my own, I didn't have much time to prepare for teaching a new class of kids.
 
 I knew I wanted them to see results for themselves quickly. I thought to myself, "Why should they need to start with vanilla javascript? Nobody else does these days."
 
