@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/js-for-kids-class1/precache-manifest.bbf46f48eb4e21f488df52567e8fc330.js"
+  "/js-for-kids-class1/precache-manifest.d9b2c26c3412f1ea100ed48b0e2b8723.js"
 );
 
 workbox.clientsClaim();
