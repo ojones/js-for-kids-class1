@@ -24,7 +24,7 @@ The file that needs to be edited in order to display your very own algorithm is 
 You can push your own steps live by: 
 1. Click on "Setting" tab in your own repo
 2. Scroll down to "Github Pages"
-3. Select "master-branch" for Source
+3. Select "master-branch" for Source and click "Save"
 
 Your apps link will display in green just below the "Github Pages" heading when it is live.
 
