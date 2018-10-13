@@ -5,11 +5,11 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^15.5.4",
-    "react-bootstrap": "^0.31.5",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
-    "react-scripts": "1.0.7"
+    "react-scripts": "^2.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,5 +19,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://ojones.github.io/workshop-algorithm"
+  "homepage": "http://ojones.github.io/workshop-algorithm",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
