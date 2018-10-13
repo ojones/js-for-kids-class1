@@ -1,12 +1,17 @@
 {
-  "main.css": "static/css/main.cdcfbdda.css",
-  "main.css.map": "static/css/main.cdcfbdda.css.map",
-  "main.js": "static/js/main.0027660a.js",
-  "main.js.map": "static/js/main.0027660a.js.map",
-  "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
-  "static/media/glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
-  "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
-  "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
-  "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "/js-for-kids-class1/static/css/main.fc011f83.chunk.css",
+  "main.js": "/js-for-kids-class1/static/js/main.16795c6a.chunk.js",
+  "main.js.map": "/js-for-kids-class1/static/js/main.16795c6a.chunk.js.map",
+  "static/css/1.dabc98fc.chunk.css": "/js-for-kids-class1/static/css/1.dabc98fc.chunk.css",
+  "static/js/1.d80f3a55.chunk.js": "/js-for-kids-class1/static/js/1.d80f3a55.chunk.js",
+  "static/js/1.d80f3a55.chunk.js.map": "/js-for-kids-class1/static/js/1.d80f3a55.chunk.js.map",
+  "runtime~main.js": "/js-for-kids-class1/static/js/runtime~main.c92cea08.js",
+  "runtime~main.js.map": "/js-for-kids-class1/static/js/runtime~main.c92cea08.js.map",
+  "static/media/logo.svg": "/js-for-kids-class1/static/media/logo.5d5d9eef.svg",
+  "static/media/bootstrap.css": "/js-for-kids-class1/static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static/css/main.fc011f83.chunk.css.map": "/js-for-kids-class1/static/css/main.fc011f83.chunk.css.map",
+  "static/css/1.dabc98fc.chunk.css.map": "/js-for-kids-class1/static/css/1.dabc98fc.chunk.css.map",
+  "index.html": "/js-for-kids-class1/index.html",
+  "precache-manifest.bbf46f48eb4e21f488df52567e8fc330.js": "/js-for-kids-class1/precache-manifest.bbf46f48eb4e21f488df52567e8fc330.js",
+  "service-worker.js": "/js-for-kids-class1/service-worker.js"
 }
